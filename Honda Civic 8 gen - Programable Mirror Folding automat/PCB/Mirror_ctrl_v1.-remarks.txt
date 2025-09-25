@@ -1,5 +1,8 @@
+PCB designed in Eagle 7.7.0
+
 All SMD capacitors and resistors are 1206 (inch) size, capacitors minimum 25V.
 Relays: TE FP2 or IM03TS  (5V coil)
 PCB is designed to fit in enclosure RS PRO : 919-0335 or 919-0379  (RS PRO ABS Enclosure, Flanged, Black Lid, 70 x 50 x 29mm)
 Switch S1 is not needed, it can be used for settings programs during functionality test
 For sound device (SP2) use piezo speaker, not buzzer!! Since controller modulate 2 tone sounds it must be piezo speaker.
+
